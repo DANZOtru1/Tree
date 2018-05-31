@@ -1,0 +1,13 @@
+﻿  TiMP_4.cpp
+c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\tree.h(87): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\tree.h(78): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\timp_4.cpp(36): note: выполняется компиляция ссылки на экземпляр шаблон функции "int Derevo<int>::max(Derevo<int>::MultiNode *)"
+  c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\timp_4.cpp(15): note: выполняется компиляция ссылки на экземпляр шаблон класс "Derevo<int>"
+c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\tree.h(73): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\tree.h(64): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\timp_4.cpp(35): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Derevo<int>::list(Derevo<int>::MultiNode *)"
+c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\tree.h(24): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\tree.h(16): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\tree.h(37): note: выполняется компиляция ссылки на экземпляр шаблон функции "Derevo<int>::MultiNode *Derevo<int>::find(int,Derevo<int>::MultiNode *)"
+c:\users\danzo\documents\visual studio 2017\projects\timp_4\timp_4\tree.h(31): warning C4715: Derevo<int>::find: значение возвращается не при всех путях выполнения
+  TiMP_4.vcxproj -> C:\Users\DANZO\Documents\Visual Studio 2017\Projects\TiMP_4\Debug\TiMP_4.exe
